@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> MY FIRST BLOG </title>
 <style>
-
     .intro {
         font-family: 'Courier New', Courier; font-weight: bolder;
         font-size: 22px; color: rgb(255, 255, 255);
@@ -43,16 +42,13 @@
 
 <body>
     <h1>Historical Perspective on Computing</h1>
-
     <div class = "intro"> The journey of computing is truly an exciting adventure that has wonderfully transformed our world. Computing has blossomed into a rich
         and varied field. The history of computers began with simple designs in the early 19th century and went on to make a significant impact
         during the 20th century. The term ‘computer’ has a delightful origin. It was first used in the 16th century to refer to a person who
         performed calculations. Before computers came into existence, folks relied on sticks, stones, and bones as their counting tools. As
         technology progressed and human creativity flourished over time, more computing devices were created. Let’s take a closer look at some of the history perspective on computing!
     </div>
-    
     <h2>Evolution of Computing:</h2>
-
     <ul><div class = "subtopics">
         <li><u>First Generation: 1940s and 1950s</u></li>
             <div class = "info">The first generation of computers, using vacuum tubes, were bulky, expensive, and difficult to program.
@@ -95,7 +91,6 @@
                 Desktop, Laptop, Notebook, Ultrabook, and more.
             </div>
     </div></ul>
-    
     <h2>Key Milestone & Influential Figures:</h2>
     <ul><div class = "subtopics">
         <li><u>Charles Babbage (1822)</u></li>
@@ -131,12 +126,10 @@
             </div>
     <br>
     </div></ul>
-
     <h1>Introduction to IT Basics</h1>
         <div class = "intro"> Information Technology, abbreviated as IT, pertains to the application of computers and advanced electronic tools
             for the purposes of storing, retrieving, sharing, and processing information.
         </div>
-
     <h2>Overview of Fundamental IT Concepts:</h2>
     <ul><div class = "subtopics">
         <li><u>Hardware</u></li>
