@@ -4,40 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> MY FIRST BLOG </title>
-<style>
-    .intro {
-        font-family: 'Courier New', Courier; font-weight: bolder;
-        font-size: 22px; color: rgb(255, 255, 255);
-        background-color: rgba(34, 29, 29, 0.377);
-        text-align: center
-    }
-    body {
-        font-family: Georgia, serif; font-size: 20px;
-        text-align: justify; color:rgb(151, 219, 145); margin: 20px;
-        background-image: url(bg1.jpg);
-        background-position: center; background-attachment: fixed
-    }
-    h1 {
-        font-family:'Lucida Sans'; text-transform: uppercase;
-        color:rgb(230, 255, 9); text-align: center; border-style: double;
-        padding-top: 5px; padding-bottom: 5px;
-        border-color: rgb(248, 110, 179); border-width: 10px
-    }
-    h2 {
-        color:rgb(67, 247, 253); text-align: justify;
-        text-indent: 10px; font-weight: bolder; letter-spacing: 2px;
-        font-family: serif
-    }
-    .info {
-        color: rgb(255, 255, 255);
-        text-indent: 0.5in; margin-left: 20px;
-        background-color: rgba(34, 29, 29, 0.377);
-        font-family: 'Courier New', Courier; font-weight: bolder
-    }
-    .subtopics {
-        font-weight: bolder; font-size: 22px;
-    }
-</style>
 </head>
 
 <body>
